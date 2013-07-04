@@ -1,4 +1,4 @@
-## This is a test login app based on http://www.eventedmind.com/posts/meteor-customizing-login that sets up logins via github's app using: 
+### This is a test login app based on http://www.eventedmind.com/posts/meteor-customizing-login that sets up logins via github's app using: 
 
 # Meteor
 
